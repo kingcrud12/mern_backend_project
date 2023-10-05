@@ -1,2 +1,8 @@
 # key env
 .env
+
+server/ node_modules
+
+server/ utils
+
+server/ .env
