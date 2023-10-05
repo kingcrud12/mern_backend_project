@@ -1,8 +1,8 @@
 # key env
 .env
 
-server/ node_modules
+node_modules/
 
-server/ utils
+utils/
 
-server/ .env
+package.json
